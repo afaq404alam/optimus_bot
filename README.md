@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/afaq404alam/optimus_bot.svg?branch=master)](https://travis-ci.org/afaq404alam/optimus_bot)
+
 # optimus_bot
 A slack bot which watches log files and sends the updates of error or failure keywords to the channel. All the details of channel name and
 keywords are configurable.
